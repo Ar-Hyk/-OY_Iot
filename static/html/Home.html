@@ -1,0 +1,33 @@
+<html>
+
+<body>
+
+<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+
+<button id="btn1">66666</button>
+<div id="content">
+
+    <script>
+        $.ajax({
+            url: "http://159.75.73.107:12588/iot/LDR",      //请求接口的地址
+            type: "GET",                                   //请求的方法GET/POST
+            success: function (res) {                      //请求成功后的操作
+                for (let n = 0; n < res.length; n++) {
+                    const d = res[n];
+                    $("#content").prepend("<h2>" + d.type + "</h2><h3>" + d.t + "</h3>")
+                }
+                ;
+            },
+            error: function (err) {                       //请求失败后的操作
+                console.log(err);                          //请求失败在控制台输出22
+            }
+        })
+    </script>
+
+
+</div>
+
+
+</body>
+
+</html>

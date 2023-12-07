@@ -1,0 +1,2282 @@
+[2023-04-23 14:30:13,648] [INFO]: Receive初始化完成
+[2023-04-23 14:30:13,684] [INFO]: IotServer运行于: 0.0.0.0:12580
+[2023-04-23 14:30:15,518] [DEBUG]: 线程列表: 数量 7
+[2023-04-23 14:30:15,519] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:30:15,519] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:30:15,520] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:30:15,520] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:30:15,521] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:30:15,561] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:30:15,567] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:30:15,567] [DEBUG]: 线程列表结束
+[2023-04-23 14:30:15,568] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:30:15,569] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:30:20,583] [DEBUG]: 线程列表: 数量 7
+[2023-04-23 14:30:20,584] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:30:20,585] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:30:20,585] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:30:20,586] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:30:20,587] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:30:20,587] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:30:20,588] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:30:20,589] [DEBUG]: 线程列表结束
+[2023-04-23 14:30:20,590] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:30:20,591] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:30:25,601] [DEBUG]: 线程列表: 数量 7
+[2023-04-23 14:30:25,607] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:30:25,608] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:30:25,610] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:30:25,611] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:30:25,612] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:30:25,614] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:30:25,615] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:30:25,616] [DEBUG]: 线程列表结束
+[2023-04-23 14:30:25,618] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:30:25,620] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:30:30,631] [DEBUG]: 线程列表: 数量 7
+[2023-04-23 14:30:30,631] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:30:30,632] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:30:30,632] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:30:30,633] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:30:30,633] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:30:30,634] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:30:30,634] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:30:30,635] [DEBUG]: 线程列表结束
+[2023-04-23 14:30:30,636] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:30:30,636] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:30:35,642] [DEBUG]: 线程列表: 数量 7
+[2023-04-23 14:30:35,642] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:30:35,642] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:30:35,643] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:30:35,643] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:30:35,644] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:30:35,644] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:30:35,644] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:30:35,645] [DEBUG]: 线程列表结束
+[2023-04-23 14:30:35,645] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:30:35,646] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:30:40,656] [DEBUG]: 线程列表: 数量 7
+[2023-04-23 14:30:40,658] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:30:40,659] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:30:40,660] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:30:40,661] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:30:40,679] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:30:40,680] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:30:40,680] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:30:40,681] [DEBUG]: 线程列表结束
+[2023-04-23 14:30:40,682] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:30:40,684] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:30:45,699] [DEBUG]: 线程列表: 数量 7
+[2023-04-23 14:30:45,699] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:30:45,700] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:30:45,700] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:30:45,701] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:30:45,701] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:30:45,702] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:30:45,702] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:30:45,702] [DEBUG]: 线程列表结束
+[2023-04-23 14:30:45,703] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:30:45,703] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:30:50,711] [DEBUG]: 线程列表: 数量 7
+[2023-04-23 14:30:50,712] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:30:50,713] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:30:50,714] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:30:50,715] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:30:50,715] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:30:50,717] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:30:50,717] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:30:50,717] [DEBUG]: 线程列表结束
+[2023-04-23 14:30:50,717] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:30:50,718] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:30:55,721] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:30:55,722] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:30:55,723] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:30:55,723] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:30:55,723] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:30:55,724] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:30:55,724] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:30:55,725] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:30:55,725] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:30:55,725] [DEBUG]: 线程列表结束
+[2023-04-23 14:30:55,726] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:30:55,726] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:00,741] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:00,742] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:00,743] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:00,743] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:00,744] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:00,745] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:00,745] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:00,748] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:00,749] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:00,749] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:00,750] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:00,751] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:05,752] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:05,753] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:05,753] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:05,753] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:05,754] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:05,754] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:05,755] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:05,755] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:05,756] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:05,756] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:05,756] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:05,757] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:10,766] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:10,767] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:10,768] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:10,768] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:10,768] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:10,769] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:10,769] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:10,770] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:10,770] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:10,771] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:10,771] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:10,771] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:15,785] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:15,786] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:15,786] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:15,786] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:15,787] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:15,787] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:15,788] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:15,788] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:15,789] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:15,789] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:15,789] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:15,790] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:20,799] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:20,800] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:20,800] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:20,801] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:20,801] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:20,802] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:20,802] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:20,803] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:20,803] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:20,804] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:20,804] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:20,805] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:25,816] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:25,817] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:25,818] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:25,818] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:25,819] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:25,819] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:25,819] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:25,820] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:25,820] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:25,821] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:25,821] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:25,821] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:30,823] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:30,824] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:30,824] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:30,825] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:30,825] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:30,826] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:30,826] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:30,827] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:30,827] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:30,828] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:30,828] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:30,828] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:35,835] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:35,835] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:35,836] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:35,837] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:35,837] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:35,837] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:35,838] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:35,838] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:35,839] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:35,839] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:35,840] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:35,840] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:40,846] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:40,847] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:40,847] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:40,848] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:40,848] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:40,849] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:40,849] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:40,850] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:40,850] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:40,851] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:40,851] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:40,851] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:45,864] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:45,865] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:45,866] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:45,866] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:45,867] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:45,867] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:45,868] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:45,868] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:45,869] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:45,869] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:45,870] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:45,870] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:50,877] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:50,878] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:50,878] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:50,879] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:50,879] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:50,880] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:50,881] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:50,881] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:50,882] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:50,883] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:50,883] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:50,884] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:31:55,896] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:31:55,897] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:31:55,898] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:31:55,899] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:31:55,900] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:31:55,900] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:31:55,901] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:31:55,902] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:31:55,902] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:31:55,903] [DEBUG]: 线程列表结束
+[2023-04-23 14:31:55,904] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:31:55,905] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:00,912] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:32:00,913] [DEBUG]: 线程1 <_MainThread(MainThread, started 13804)>
+[2023-04-23 14:32:00,913] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 16748)>
+[2023-04-23 14:32:00,914] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 2036)>
+[2023-04-23 14:32:00,914] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 5872)>
+[2023-04-23 14:32:00,915] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 11456)>
+[2023-04-23 14:32:00,915] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 11412)>
+[2023-04-23 14:32:00,916] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 5056)>
+[2023-04-23 14:32:00,916] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 3756)>
+[2023-04-23 14:32:00,916] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:00,917] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:00,917] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:04,826] [INFO]: Receive初始化完成
+[2023-04-23 14:32:04,826] [INFO]: IotServer运行于: 0.0.0.0:12580
+[2023-04-23 14:32:06,165] [DEBUG]: 线程列表: 数量 7
+[2023-04-23 14:32:06,166] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:32:06,166] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:32:06,167] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:32:06,167] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:32:06,167] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:32:06,168] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:32:06,168] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:32:06,169] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:06,169] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:06,170] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:11,181] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:32:11,182] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:32:11,182] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:32:11,182] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:32:11,183] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:32:11,183] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:32:11,184] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:32:11,185] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:32:11,185] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:32:11,186] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:11,186] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:11,187] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:16,195] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:32:16,195] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:32:16,196] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:32:16,196] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:32:16,197] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:32:16,197] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:32:16,198] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:32:16,198] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:32:16,198] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:32:16,199] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:16,199] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:16,200] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:21,214] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:32:21,215] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:32:21,215] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:32:21,216] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:32:21,216] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:32:21,217] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:32:21,217] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:32:21,218] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:32:21,218] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:32:21,219] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:21,219] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:21,220] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:26,236] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:32:26,236] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:32:26,237] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:32:26,238] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:32:26,238] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:32:26,239] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:32:26,239] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:32:26,240] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:32:26,241] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:32:26,242] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:26,242] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:26,243] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:31,251] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:32:31,251] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:32:31,252] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:32:31,252] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:32:31,253] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:32:31,253] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:32:31,254] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:32:31,254] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:32:31,254] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:32:31,255] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:31,255] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:31,255] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:36,261] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:32:36,262] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:32:36,262] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:32:36,263] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:32:36,263] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:32:36,263] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:32:36,264] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:32:36,264] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:32:36,265] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:32:36,265] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:36,266] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:36,266] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:41,271] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:32:41,272] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:32:41,272] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:32:41,272] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:32:41,273] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:32:41,273] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:32:41,274] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:32:41,274] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:32:41,275] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:32:41,275] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:41,275] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:41,276] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:46,286] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:32:46,287] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:32:46,288] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:32:46,289] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:32:46,289] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:32:46,290] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:32:46,290] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:32:46,291] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:32:46,291] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:32:46,292] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:46,292] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:46,293] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:51,296] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:32:51,297] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:32:51,297] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:32:51,298] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:32:51,299] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:32:51,299] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:32:51,300] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:32:51,301] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:32:51,302] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:32:51,302] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:51,303] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:51,304] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:32:56,311] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:32:56,312] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:32:56,312] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:32:56,313] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:32:56,313] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:32:56,314] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:32:56,314] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:32:56,314] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:32:56,315] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:32:56,315] [DEBUG]: 线程列表结束
+[2023-04-23 14:32:56,316] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:32:56,316] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:01,332] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:01,332] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:01,333] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:01,333] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:01,334] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:01,334] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:01,334] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:01,335] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:01,335] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:01,336] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:01,336] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:01,337] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:06,342] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:06,343] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:06,343] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:06,344] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:06,344] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:06,345] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:06,345] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:06,346] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:06,346] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:06,346] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:06,347] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:06,347] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:11,354] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:11,355] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:11,355] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:11,356] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:11,356] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:11,356] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:11,357] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:11,357] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:11,358] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:11,358] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:11,358] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:11,359] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:16,370] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:16,370] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:16,371] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:16,371] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:16,372] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:16,372] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:16,373] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:16,373] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:16,373] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:16,374] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:16,374] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:16,375] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:21,382] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:21,382] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:21,383] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:21,383] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:21,384] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:21,384] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:21,385] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:21,385] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:21,385] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:21,386] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:21,386] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:21,387] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:26,400] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:26,400] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:26,401] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:26,401] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:26,402] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:26,402] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:26,403] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:26,403] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:26,403] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:26,404] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:26,404] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:26,405] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:31,413] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:31,414] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:31,414] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:31,415] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:31,415] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:31,416] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:31,416] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:31,417] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:31,417] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:31,418] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:31,418] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:31,419] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:36,423] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:36,424] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:36,425] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:36,425] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:36,426] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:36,426] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:36,426] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:36,427] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:36,427] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:36,428] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:36,428] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:36,428] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:41,431] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:41,431] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:41,432] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:41,432] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:41,433] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:41,433] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:41,434] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:41,434] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:41,434] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:41,435] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:41,435] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:41,436] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:46,449] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:46,449] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:46,450] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:46,450] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:46,451] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:46,451] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:46,452] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:46,452] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:46,453] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:46,453] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:46,453] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:46,454] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:51,464] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:51,464] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:51,465] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:51,465] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:51,466] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:51,466] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:51,466] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:51,467] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:51,467] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:51,468] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:51,468] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:51,468] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:33:56,484] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:33:56,485] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:33:56,486] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:33:56,486] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:33:56,486] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:33:56,487] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:33:56,487] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:33:56,488] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:33:56,488] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:33:56,488] [DEBUG]: 线程列表结束
+[2023-04-23 14:33:56,489] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:33:56,489] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:01,504] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:01,505] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:01,506] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:01,506] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:01,507] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:01,508] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:01,508] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:01,509] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:01,509] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:01,510] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:01,510] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:01,511] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:06,516] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:06,517] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:06,517] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:06,517] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:06,518] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:06,519] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:06,519] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:06,519] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:06,520] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:06,520] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:06,521] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:06,521] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:11,527] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:11,528] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:11,528] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:11,529] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:11,529] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:11,530] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:11,530] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:11,530] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:11,531] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:11,531] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:11,532] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:11,532] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:16,537] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:16,537] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:16,538] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:16,538] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:16,539] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:16,539] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:16,539] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:16,540] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:16,540] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:16,541] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:16,541] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:16,541] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:21,549] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:21,549] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:21,550] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:21,550] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:21,551] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:21,551] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:21,551] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:21,552] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:21,552] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:21,553] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:21,554] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:21,554] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:26,569] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:26,569] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:26,570] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:26,570] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:26,571] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:26,571] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:26,572] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:26,572] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:26,572] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:26,573] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:26,573] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:26,574] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:31,585] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:31,586] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:31,587] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:31,587] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:31,588] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:31,588] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:31,589] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:31,589] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:31,589] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:31,590] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:31,590] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:31,591] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:36,595] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:36,595] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:36,596] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:36,596] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:36,597] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:36,597] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:36,598] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:36,598] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:36,598] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:36,599] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:36,599] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:36,600] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:41,608] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:41,609] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:41,609] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:41,609] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:41,610] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:41,610] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:41,611] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:41,611] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:41,612] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:41,612] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:41,613] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:41,613] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:46,621] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:46,621] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:46,622] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:46,622] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:46,622] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:46,623] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:46,623] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:46,624] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:46,624] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:46,624] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:46,625] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:46,625] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:51,633] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:51,634] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:51,635] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:51,635] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:51,636] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:51,636] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:51,637] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:51,637] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:51,638] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:51,638] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:51,639] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:51,639] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:34:56,648] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:34:56,649] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:34:56,650] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:34:56,650] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:34:56,651] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:34:56,651] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:34:56,652] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:34:56,652] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:34:56,652] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:34:56,653] [DEBUG]: 线程列表结束
+[2023-04-23 14:34:56,653] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:34:56,654] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:01,662] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:01,662] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:01,663] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:01,663] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:01,664] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:01,664] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:01,664] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:01,665] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:01,665] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:01,666] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:01,666] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:01,666] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:06,678] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:06,678] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:06,678] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:06,679] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:06,679] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:06,679] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:06,680] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:06,680] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:06,681] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:06,681] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:06,681] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:06,682] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:11,688] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:11,688] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:11,689] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:11,689] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:11,690] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:11,690] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:11,690] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:11,691] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:11,691] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:11,692] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:11,692] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:11,693] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:16,694] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:16,694] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:16,695] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:16,695] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:16,696] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:16,696] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:16,696] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:16,697] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:16,697] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:16,698] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:16,698] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:16,698] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:21,705] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:21,706] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:21,707] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:21,707] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:21,707] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:21,708] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:21,708] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:21,709] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:21,709] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:21,709] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:21,710] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:21,710] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:26,716] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:26,716] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:26,717] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:26,717] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:26,718] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:26,718] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:26,719] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:26,719] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:26,720] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:26,720] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:26,720] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:26,721] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:31,734] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:31,734] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:31,735] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:31,735] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:31,736] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:31,736] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:31,736] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:31,737] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:31,738] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:31,738] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:31,738] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:31,739] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:36,745] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:36,745] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:36,746] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:36,746] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:36,747] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:36,747] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:36,747] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:36,748] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:36,748] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:36,749] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:36,749] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:36,749] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:41,760] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:41,760] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:41,761] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:41,761] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:41,762] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:41,762] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:41,763] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:41,763] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:41,763] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:41,764] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:41,764] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:41,765] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:46,768] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:46,769] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:46,770] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:46,770] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:46,770] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:46,771] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:46,771] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:46,772] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:46,772] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:46,772] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:46,773] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:46,773] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:51,784] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:51,785] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:51,785] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:51,786] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:51,786] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:51,787] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:51,787] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:51,787] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:51,788] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:51,788] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:51,789] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:51,789] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:35:56,801] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:35:56,802] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:35:56,802] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:35:56,803] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:35:56,803] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:35:56,803] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:35:56,804] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:35:56,804] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:35:56,805] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:35:56,805] [DEBUG]: 线程列表结束
+[2023-04-23 14:35:56,806] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:35:56,806] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:01,818] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:01,818] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:01,819] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:01,819] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:01,820] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:01,820] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:01,821] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:01,821] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:01,821] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:01,822] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:01,822] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:01,823] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:06,834] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:06,835] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:06,835] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:06,836] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:06,836] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:06,837] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:06,838] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:06,838] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:06,838] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:06,839] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:06,839] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:06,840] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:11,844] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:11,845] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:11,845] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:11,846] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:11,846] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:11,847] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:11,847] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:11,847] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:11,848] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:11,848] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:11,849] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:11,849] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:16,855] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:16,856] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:16,856] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:16,857] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:16,857] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:16,858] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:16,858] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:16,859] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:16,859] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:16,860] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:16,860] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:16,861] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:21,875] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:21,875] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:21,875] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:21,875] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:21,876] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:21,876] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:21,876] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:21,877] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:21,877] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:21,878] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:21,878] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:21,878] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:26,891] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:26,892] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:26,892] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:26,893] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:26,893] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:26,893] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:26,894] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:26,894] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:26,895] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:26,895] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:26,895] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:26,896] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:31,910] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:31,911] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:31,911] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:31,911] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:31,912] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:31,912] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:31,913] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:31,913] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:31,913] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:31,914] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:31,914] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:31,915] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:36,924] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:36,924] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:36,925] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:36,925] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:36,926] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:36,926] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:36,926] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:36,927] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:36,927] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:36,928] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:36,928] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:36,928] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:41,942] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:41,943] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:41,943] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:41,944] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:41,944] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:41,944] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:41,945] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:41,945] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:41,946] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:41,946] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:41,946] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:41,947] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:46,956] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:46,957] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:46,958] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:46,958] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:46,958] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:46,959] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:46,959] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:46,960] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:46,960] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:46,960] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:46,961] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:46,961] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:51,970] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:51,970] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:51,971] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:51,971] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:51,972] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:51,972] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:51,972] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:51,973] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:51,973] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:51,974] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:51,974] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:51,975] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:36:56,991] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:36:56,993] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:36:56,993] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:36:56,994] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:36:56,994] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:36:56,995] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:36:56,995] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:36:56,995] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:36:56,996] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:36:56,996] [DEBUG]: 线程列表结束
+[2023-04-23 14:36:56,997] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:36:56,997] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:02,011] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:02,012] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:02,013] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:02,013] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:02,014] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:02,014] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:02,015] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:02,015] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:02,016] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:02,016] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:02,016] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:02,017] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:07,020] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:07,021] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:07,021] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:07,022] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:07,022] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:07,023] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:07,023] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:07,023] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:07,024] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:07,024] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:07,024] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:07,025] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:12,030] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:12,031] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:12,031] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:12,032] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:12,032] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:12,033] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:12,033] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:12,034] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:12,034] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:12,035] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:12,035] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:12,035] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:17,043] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:17,044] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:17,044] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:17,044] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:17,045] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:17,045] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:17,046] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:17,046] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:17,046] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:17,047] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:17,047] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:17,047] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:22,053] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:22,053] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:22,054] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:22,054] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:22,055] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:22,055] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:22,056] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:22,056] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:22,057] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:22,057] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:22,058] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:22,058] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:27,067] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:27,068] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:27,068] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:27,069] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:27,069] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:27,070] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:27,071] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:27,071] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:27,071] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:27,072] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:27,072] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:27,073] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:32,075] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:32,076] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:32,076] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:32,077] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:32,077] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:32,078] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:32,078] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:32,079] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:32,079] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:32,080] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:32,080] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:32,081] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:37,085] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:37,086] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:37,087] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:37,087] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:37,088] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:37,089] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:37,089] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:37,089] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:37,090] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:37,090] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:37,091] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:37,091] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:42,096] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:42,097] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:42,097] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:42,097] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:42,098] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:42,098] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:42,098] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:42,099] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:42,099] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:42,100] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:42,100] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:42,100] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:47,109] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:47,110] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:47,110] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:47,111] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:47,111] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:47,111] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:47,112] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:47,112] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:47,113] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:47,113] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:47,114] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:47,114] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:52,123] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:52,124] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:52,124] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:52,125] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:52,125] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:52,125] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:52,126] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:52,126] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:52,127] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:52,127] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:52,127] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:52,128] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:37:57,133] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:37:57,134] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:37:57,134] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:37:57,135] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:37:57,135] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:37:57,135] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:37:57,136] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:37:57,136] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:37:57,137] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:37:57,137] [DEBUG]: 线程列表结束
+[2023-04-23 14:37:57,137] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:37:57,138] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:02,152] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:02,152] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:02,153] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:02,153] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:02,153] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:02,154] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:02,154] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:02,155] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:02,155] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:02,155] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:02,156] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:02,156] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:07,163] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:07,164] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:07,164] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:07,165] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:07,165] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:07,166] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:07,166] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:07,167] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:07,167] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:07,167] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:07,168] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:07,168] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:12,171] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:12,172] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:12,172] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:12,173] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:12,173] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:12,173] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:12,174] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:12,174] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:12,175] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:12,175] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:12,175] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:12,176] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:17,192] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:17,193] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:17,193] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:17,194] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:17,194] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:17,195] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:17,195] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:17,195] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:17,196] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:17,196] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:17,197] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:17,197] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:22,198] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:22,198] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:22,199] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:22,199] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:22,200] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:22,200] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:22,200] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:22,201] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:22,201] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:22,202] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:22,202] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:22,202] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:27,209] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:27,210] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:27,211] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:27,212] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:27,212] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:27,213] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:27,213] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:27,214] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:27,214] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:27,214] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:27,215] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:27,215] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:32,223] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:32,224] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:32,313] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:32,314] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:32,314] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:32,315] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:32,315] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:32,316] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:32,316] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:32,317] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:32,317] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:32,318] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:37,327] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:37,328] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:37,328] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:37,329] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:37,329] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:37,329] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:37,330] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:37,330] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:37,331] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:37,331] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:37,331] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:37,332] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:42,342] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:42,342] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:42,343] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:42,343] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:42,344] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:42,344] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:42,345] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:42,345] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:42,345] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:42,346] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:42,346] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:42,347] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:47,357] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:47,358] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:47,358] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:47,359] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:47,359] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:47,360] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:47,360] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:47,361] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:47,361] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:47,361] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:47,362] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:47,362] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:52,372] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:52,373] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:52,373] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:52,373] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:52,374] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:52,374] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:52,375] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:52,375] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:52,375] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:52,376] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:52,376] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:52,377] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:38:57,392] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:38:57,393] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:38:57,393] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:38:57,394] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:38:57,394] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:38:57,394] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:38:57,395] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:38:57,395] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:38:57,396] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:38:57,396] [DEBUG]: 线程列表结束
+[2023-04-23 14:38:57,396] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:38:57,397] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:02,413] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:02,414] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:02,414] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:02,415] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:02,415] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:02,416] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:02,416] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:02,417] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:02,417] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:02,417] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:02,418] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:02,418] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:07,425] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:07,426] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:07,426] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:07,427] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:07,427] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:07,427] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:07,428] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:07,428] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:07,429] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:07,429] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:07,429] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:07,430] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:12,431] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:12,432] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:12,432] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:12,433] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:12,433] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:12,434] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:12,434] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:12,434] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:12,435] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:12,435] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:12,435] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:12,436] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:17,444] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:17,445] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:17,445] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:17,446] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:17,446] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:17,447] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:17,447] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:17,448] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:17,448] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:17,449] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:17,449] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:17,449] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:22,463] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:22,464] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:22,464] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:22,465] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:22,465] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:22,465] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:22,466] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:22,466] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:22,467] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:22,467] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:22,467] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:22,468] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:27,474] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:27,474] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:27,475] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:27,475] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:27,476] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:27,476] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:27,477] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:27,477] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:27,477] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:27,478] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:27,478] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:27,479] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:32,488] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:32,488] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:32,489] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:32,489] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:32,490] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:32,490] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:32,491] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:32,491] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:32,491] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:32,492] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:32,493] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:32,493] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:37,498] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:37,498] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:37,499] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:37,499] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:37,500] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:37,500] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:37,500] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:37,501] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:37,501] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:37,501] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:37,502] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:37,502] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:42,518] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:42,518] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:42,519] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:42,520] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:42,520] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:42,520] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:42,521] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:42,521] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:42,522] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:42,522] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:42,522] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:42,523] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:47,527] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:47,528] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:47,528] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:47,528] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:47,529] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:47,529] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:47,529] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:47,530] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:47,530] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:47,531] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:47,531] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:47,531] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:52,547] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:52,548] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:52,548] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:52,549] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:52,549] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:52,550] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:52,550] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:52,551] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:52,551] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:52,551] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:52,552] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:52,552] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:39:57,557] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:39:57,557] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:39:57,558] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:39:57,558] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:39:57,559] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:39:57,559] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:39:57,559] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:39:57,560] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:39:57,560] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:39:57,561] [DEBUG]: 线程列表结束
+[2023-04-23 14:39:57,561] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:39:57,561] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:02,572] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:02,572] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:02,573] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:02,573] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:02,574] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:02,574] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:02,575] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:02,575] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:02,575] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:02,576] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:02,576] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:02,577] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:07,586] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:07,586] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:07,587] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:07,587] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:07,588] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:07,588] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:07,589] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:07,589] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:07,590] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:07,590] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:07,591] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:07,591] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:12,604] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:12,604] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:12,605] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:12,605] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:12,606] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:12,606] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:12,607] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:12,607] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:12,608] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:12,608] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:12,609] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:12,610] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:17,613] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:17,614] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:17,614] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:17,615] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:17,615] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:17,616] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:17,616] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:17,617] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:17,618] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:17,619] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:17,619] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:17,620] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:22,636] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:22,637] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:22,637] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:22,638] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:22,638] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:22,639] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:22,639] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:22,640] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:22,641] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:22,641] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:22,642] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:22,642] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:27,647] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:27,648] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:27,649] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:27,649] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:27,650] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:27,650] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:27,651] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:27,651] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:27,652] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:27,653] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:27,653] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:27,654] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:32,656] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:32,657] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:32,657] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:32,658] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:32,658] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:32,658] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:32,659] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:32,659] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:32,660] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:32,660] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:32,661] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:32,661] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:37,671] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:37,672] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:37,673] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:37,673] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:37,674] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:37,674] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:37,674] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:37,675] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:37,675] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:37,676] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:37,676] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:37,677] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:42,690] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:42,690] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:42,691] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:42,691] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:42,692] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:42,692] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:42,693] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:42,694] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:42,694] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:42,695] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:42,695] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:42,696] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:47,699] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:47,700] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:47,700] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:47,701] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:47,701] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:47,702] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:47,702] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:47,703] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:47,703] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:47,704] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:47,704] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:47,704] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:52,715] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:52,715] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:52,716] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:52,716] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:52,717] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:52,717] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:52,718] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:52,718] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:52,719] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:52,719] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:52,720] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:52,720] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:40:57,724] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:40:57,724] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:40:57,725] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:40:57,725] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:40:57,726] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:40:57,726] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:40:57,726] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:40:57,727] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:40:57,727] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:40:57,728] [DEBUG]: 线程列表结束
+[2023-04-23 14:40:57,729] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:40:57,729] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:02,733] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:02,734] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:02,735] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:02,735] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:02,736] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:02,736] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:02,737] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:02,737] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:02,738] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:02,738] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:02,739] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:02,739] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:07,749] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:07,749] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:07,750] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:07,750] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:07,751] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:07,751] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:07,752] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:07,752] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:07,753] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:07,753] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:07,754] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:07,754] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:12,765] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:12,766] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:12,766] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:12,767] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:12,767] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:12,768] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:12,768] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:12,768] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:12,769] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:12,769] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:12,770] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:12,770] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:17,782] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:17,783] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:17,783] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:17,783] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:17,784] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:17,784] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:17,785] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:17,785] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:17,785] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:17,786] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:17,786] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:17,786] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:22,788] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:22,789] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:22,789] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:22,790] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:22,790] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:22,791] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:22,791] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:22,792] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:22,792] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:22,793] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:22,793] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:22,794] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:27,797] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:27,797] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:27,798] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:27,798] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:27,799] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:27,799] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:27,800] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:27,800] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:27,800] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:27,801] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:27,801] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:27,802] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:32,817] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:32,818] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:32,819] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:32,820] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:32,820] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:32,821] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:32,821] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:32,822] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:32,822] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:32,822] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:32,823] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:32,823] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:37,832] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:37,833] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:37,833] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:37,834] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:37,834] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:37,835] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:37,835] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:37,835] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:37,836] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:37,836] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:37,837] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:37,837] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:42,849] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:42,849] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:42,850] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:42,850] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:42,851] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:42,851] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:42,852] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:42,852] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:42,853] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:42,853] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:42,854] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:42,854] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:47,863] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:47,864] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:47,864] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:47,864] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:47,865] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:47,865] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:47,866] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:47,867] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:47,867] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:47,868] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:47,868] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:47,868] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:52,875] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:52,876] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:52,876] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:52,877] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:52,877] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:52,878] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:52,878] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:52,878] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:52,879] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:52,879] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:52,880] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:52,880] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:41:57,883] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:41:57,884] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:41:57,884] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:41:57,885] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:41:57,885] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:41:57,886] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:41:57,886] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:41:57,887] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:41:57,887] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:41:57,887] [DEBUG]: 线程列表结束
+[2023-04-23 14:41:57,888] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:41:57,888] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:02,891] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:02,892] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:02,892] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:02,892] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:02,893] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:02,893] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:02,894] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:02,894] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:02,895] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:02,895] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:02,895] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:02,896] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:07,910] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:07,911] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:07,911] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:07,912] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:07,912] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:07,913] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:07,913] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:07,914] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:07,914] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:07,915] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:07,915] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:07,916] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:12,928] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:12,929] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:12,930] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:12,931] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:12,932] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:12,933] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:12,933] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:12,934] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:12,935] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:12,935] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:12,936] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:12,937] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:17,942] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:17,942] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:17,943] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:17,943] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:17,944] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:17,944] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:17,945] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:17,945] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:17,946] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:17,946] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:17,947] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:17,947] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:22,962] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:22,963] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:22,964] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:22,964] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:22,965] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:22,965] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:22,966] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:22,966] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:22,966] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:22,967] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:22,967] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:22,968] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:27,978] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:27,978] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:27,979] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:27,979] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:27,980] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:27,980] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:27,981] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:27,981] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:27,981] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:27,982] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:27,982] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:27,983] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:32,994] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:32,994] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:32,995] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:32,995] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:32,996] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:32,996] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:32,996] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:32,997] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:32,997] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:32,998] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:32,998] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:32,999] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:38,011] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:38,012] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:38,014] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:38,015] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:38,016] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:38,016] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:38,017] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:38,018] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:38,019] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:38,019] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:38,020] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:38,021] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:43,036] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:43,037] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:43,037] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:43,038] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:43,038] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:43,038] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:43,039] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:43,040] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:43,040] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:43,040] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:43,041] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:43,041] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:48,050] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:48,051] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:48,051] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:48,052] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:48,052] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:48,053] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:48,054] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:48,054] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:48,055] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:48,055] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:48,056] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:48,056] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:53,060] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:53,061] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:53,061] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:53,062] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:53,062] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:53,063] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:53,063] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:53,064] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:53,064] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:53,064] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:53,065] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:53,065] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:42:58,081] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:42:58,082] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:42:58,082] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:42:58,083] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:42:58,084] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:42:58,084] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:42:58,085] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:42:58,085] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:42:58,086] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:42:58,086] [DEBUG]: 线程列表结束
+[2023-04-23 14:42:58,087] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:42:58,087] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:03,096] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:03,097] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:03,097] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:03,098] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:03,098] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:03,099] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:03,099] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:03,100] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:03,100] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:03,100] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:03,101] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:03,101] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:08,111] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:08,111] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:08,112] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:08,112] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:08,112] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:08,113] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:08,113] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:08,114] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:08,114] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:08,115] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:08,115] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:08,116] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:13,132] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:13,133] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:13,133] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:13,134] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:13,134] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:13,134] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:13,135] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:13,135] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:13,136] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:13,136] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:13,137] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:13,137] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:18,140] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:18,140] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:18,141] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:18,141] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:18,142] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:18,142] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:18,142] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:18,143] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:18,143] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:18,144] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:18,144] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:18,144] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:23,160] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:23,161] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:23,161] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:23,162] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:23,162] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:23,163] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:23,164] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:23,164] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:23,165] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:23,165] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:23,166] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:23,166] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:28,169] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:28,169] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:28,170] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:28,170] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:28,171] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:28,171] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:28,172] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:28,172] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:28,172] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:28,173] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:28,173] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:28,174] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:33,185] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:33,186] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:33,186] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:33,186] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:33,187] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:33,187] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:33,188] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:33,188] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:33,188] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:33,189] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:33,189] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:33,190] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:38,195] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:38,196] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:38,196] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:38,197] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:38,197] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:38,198] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:38,198] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:38,199] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:38,199] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:38,199] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:38,200] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:38,200] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:43,202] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:43,203] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:43,203] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:43,204] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:43,204] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:43,205] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:43,205] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:43,206] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:43,206] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:43,207] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:43,207] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:43,208] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:48,216] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:48,216] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:48,217] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:48,217] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:48,218] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:48,218] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:48,219] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:48,219] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:48,219] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:48,220] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:48,220] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:48,221] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:53,234] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:53,235] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:53,236] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:53,237] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:53,237] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:53,237] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:53,238] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:53,238] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:53,238] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:53,239] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:53,239] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:53,239] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:43:58,252] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:43:58,252] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:43:58,253] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:43:58,253] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:43:58,254] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:43:58,254] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:43:58,254] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:43:58,255] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:43:58,256] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:43:58,256] [DEBUG]: 线程列表结束
+[2023-04-23 14:43:58,257] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:43:58,257] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:44:03,262] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:44:03,263] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:44:03,264] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:44:03,264] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:44:03,265] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:44:03,265] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:44:03,266] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:44:03,267] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:44:03,267] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:44:03,268] [DEBUG]: 线程列表结束
+[2023-04-23 14:44:03,268] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:44:03,269] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:44:08,279] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:44:08,280] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:44:08,280] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:44:08,281] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:44:08,281] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:44:08,282] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:44:08,282] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:44:08,283] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:44:08,283] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:44:08,283] [DEBUG]: 线程列表结束
+[2023-04-23 14:44:08,284] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:44:08,284] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:44:13,299] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:44:13,299] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:44:13,300] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:44:13,300] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:44:13,301] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:44:13,301] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:44:13,302] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:44:13,302] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:44:13,303] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:44:13,303] [DEBUG]: 线程列表结束
+[2023-04-23 14:44:13,304] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:44:13,304] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:44:18,316] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:44:18,316] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:44:18,317] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:44:18,317] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:44:18,318] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:44:18,318] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:44:18,319] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:44:18,319] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:44:18,319] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:44:18,320] [DEBUG]: 线程列表结束
+[2023-04-23 14:44:18,320] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:44:18,321] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:44:23,324] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:44:23,325] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:44:23,326] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:44:23,326] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:44:23,327] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:44:23,327] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:44:23,328] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:44:23,328] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:44:23,328] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:44:23,329] [DEBUG]: 线程列表结束
+[2023-04-23 14:44:23,329] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:44:23,330] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:44:28,342] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:44:28,343] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:44:28,343] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:44:28,344] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:44:28,344] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:44:28,344] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:44:28,345] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:44:28,345] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:44:28,346] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:44:28,346] [DEBUG]: 线程列表结束
+[2023-04-23 14:44:28,347] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:44:28,347] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:44:33,348] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:44:33,348] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:44:33,349] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:44:33,349] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:44:33,350] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:44:33,350] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:44:33,351] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:44:33,351] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:44:33,351] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:44:33,352] [DEBUG]: 线程列表结束
+[2023-04-23 14:44:33,352] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:44:33,353] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:44:38,360] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:44:38,361] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:44:38,362] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:44:38,362] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:44:38,363] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:44:38,363] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:44:38,364] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:44:38,365] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:44:38,365] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:44:38,366] [DEBUG]: 线程列表结束
+[2023-04-23 14:44:38,366] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:44:38,367] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:44:43,383] [DEBUG]: 线程列表: 数量 8
+[2023-04-23 14:44:43,384] [DEBUG]: 线程1 <_MainThread(MainThread, started 11856)>
+[2023-04-23 14:44:43,384] [DEBUG]: 线程2 <WriterThread(pydevd.Writer, started daemon 4696)>
+[2023-04-23 14:44:43,385] [DEBUG]: 线程3 <ReaderThread(pydevd.Reader, started daemon 12584)>
+[2023-04-23 14:44:43,385] [DEBUG]: 线程4 <PyDBCommandThread(pydevd.CommandThread, started daemon 12832)>
+[2023-04-23 14:44:43,386] [DEBUG]: 线程5 <Thread(APScheduler, started daemon 10244)>
+[2023-04-23 14:44:43,386] [DEBUG]: 线程6 <Thread(IotServer_Main, started daemon 12688)>
+[2023-04-23 14:44:43,387] [DEBUG]: 线程7 <Thread(IotServer_Listen, started daemon 19104)>
+[2023-04-23 14:44:43,387] [DEBUG]: 线程8 <WorkerThread(AnyIO worker thread, started 17824)>
+[2023-04-23 14:44:43,387] [DEBUG]: 线程列表结束
+[2023-04-23 14:44:43,388] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:44:43,388] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:44:58,357] [INFO]: Receive初始化完成
+[2023-04-23 14:44:58,357] [INFO]: IotServer运行于: 0.0.0.0:12580
+[2023-04-23 14:44:59,809] [DEBUG]: 线程列表: 数量 4
+[2023-04-23 14:44:59,810] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:44:59,811] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:44:59,811] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:44:59,812] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:44:59,812] [DEBUG]: 线程列表结束
+[2023-04-23 14:44:59,813] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:44:59,813] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:04,829] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:04,829] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:04,830] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:04,830] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:04,830] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:04,830] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:04,831] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:04,831] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:04,831] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:09,842] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:09,842] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:09,843] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:09,843] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:09,843] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:09,843] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:09,844] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:09,844] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:09,844] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:14,860] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:14,860] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:14,861] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:14,861] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:14,861] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:14,862] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:14,862] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:14,862] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:14,863] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:19,872] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:19,872] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:19,873] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:19,873] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:19,873] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:19,873] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:19,874] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:19,874] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:19,874] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:24,888] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:24,888] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:24,888] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:24,889] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:24,889] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:24,889] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:24,890] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:24,890] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:24,890] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:29,896] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:29,896] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:29,897] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:29,897] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:29,898] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:29,898] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:29,899] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:29,899] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:29,899] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:34,908] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:34,908] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:34,909] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:34,909] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:34,910] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:34,910] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:34,910] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:34,911] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:34,911] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:39,921] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:39,922] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:39,922] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:39,922] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:39,923] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:39,923] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:39,923] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:39,924] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:39,924] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:44,926] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:44,926] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:44,927] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:44,927] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:44,928] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:44,928] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:44,928] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:44,928] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:44,929] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:49,945] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:49,945] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:49,946] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:49,946] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:49,946] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:49,947] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:49,947] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:49,947] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:49,947] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:54,957] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:54,957] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:54,958] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:54,958] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:54,958] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:54,959] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:54,959] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:54,959] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:54,959] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:45:59,975] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:45:59,975] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:45:59,976] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:45:59,976] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:45:59,976] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:45:59,977] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:45:59,977] [DEBUG]: 线程列表结束
+[2023-04-23 14:45:59,977] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:45:59,977] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:46:04,992] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:46:04,993] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:46:04,994] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:46:04,994] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:46:04,995] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:46:04,995] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:46:04,995] [DEBUG]: 线程列表结束
+[2023-04-23 14:46:04,996] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:46:04,996] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:46:10,008] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:46:10,008] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:46:10,009] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:46:10,009] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:46:10,009] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:46:10,010] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:46:10,010] [DEBUG]: 线程列表结束
+[2023-04-23 14:46:10,010] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:46:10,011] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:46:15,026] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:46:15,026] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:46:15,027] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:46:15,027] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:46:15,027] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:46:15,028] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:46:15,028] [DEBUG]: 线程列表结束
+[2023-04-23 14:46:15,028] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:46:15,028] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:46:20,044] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:46:20,044] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:46:20,044] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:46:20,044] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:46:20,044] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:46:20,045] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:46:20,045] [DEBUG]: 线程列表结束
+[2023-04-23 14:46:20,045] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:46:20,046] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:46:25,055] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:46:25,056] [DEBUG]: 线程1 <_MainThread(MainThread, started 16472)>
+[2023-04-23 14:46:25,056] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 13088)>
+[2023-04-23 14:46:25,057] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13484)>
+[2023-04-23 14:46:25,057] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 10892)>
+[2023-04-23 14:46:25,057] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16032)>
+[2023-04-23 14:46:25,058] [DEBUG]: 线程列表结束
+[2023-04-23 14:46:25,058] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:46:25,058] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:46:29,733] [INFO]: Receive初始化完成
+[2023-04-23 14:46:29,734] [INFO]: IotServer运行于: 0.0.0.0:12580
+[2023-04-23 14:46:30,737] [DEBUG]: 线程列表: 数量 4
+[2023-04-23 14:46:30,738] [DEBUG]: 线程1 <_MainThread(MainThread, started 14252)>
+[2023-04-23 14:46:30,738] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 18900)>
+[2023-04-23 14:46:30,739] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13224)>
+[2023-04-23 14:46:30,739] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 17808)>
+[2023-04-23 14:46:30,739] [DEBUG]: 线程列表结束
+[2023-04-23 14:46:30,740] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:46:30,740] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:46:35,743] [DEBUG]: 线程列表: 数量 4
+[2023-04-23 14:46:35,744] [DEBUG]: 线程1 <_MainThread(MainThread, started 14252)>
+[2023-04-23 14:46:35,745] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 18900)>
+[2023-04-23 14:46:35,745] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13224)>
+[2023-04-23 14:46:35,745] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 17808)>
+[2023-04-23 14:46:35,746] [DEBUG]: 线程列表结束
+[2023-04-23 14:46:35,746] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:46:35,746] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:46:40,750] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:46:40,750] [DEBUG]: 线程1 <_MainThread(MainThread, started 14252)>
+[2023-04-23 14:46:40,750] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 18900)>
+[2023-04-23 14:46:40,751] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13224)>
+[2023-04-23 14:46:40,751] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 17808)>
+[2023-04-23 14:46:40,751] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16500)>
+[2023-04-23 14:46:40,752] [DEBUG]: 线程列表结束
+[2023-04-23 14:46:40,752] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:46:40,752] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-23 14:46:45,767] [DEBUG]: 线程列表: 数量 5
+[2023-04-23 14:46:45,767] [DEBUG]: 线程1 <_MainThread(MainThread, started 14252)>
+[2023-04-23 14:46:45,768] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 18900)>
+[2023-04-23 14:46:45,768] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 13224)>
+[2023-04-23 14:46:45,769] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 17808)>
+[2023-04-23 14:46:45,769] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 16500)>
+[2023-04-23 14:46:45,769] [DEBUG]: 线程列表结束
+[2023-04-23 14:46:45,769] [INFO]: 连接检查: 数量 0
+[2023-04-23 14:46:45,770] [INFO]: 连接检查完成: 存活连接数量 0

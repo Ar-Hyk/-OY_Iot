@@ -1,0 +1,1584 @@
+[2023-04-15 17:08:08,388] [INFO]: Receive初始化完成
+[2023-04-15 17:08:08,391] [INFO]: IotServer运行于: 0.0.0.0:12580
+[2023-04-15 17:08:09,610] [DEBUG]: 线程列表: 数量 4
+[2023-04-15 17:08:09,611] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:08:09,611] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:08:09,612] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:08:09,612] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:08:09,612] [DEBUG]: 线程列表结束
+[2023-04-15 17:08:09,612] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:08:09,620] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:08:14,629] [DEBUG]: 线程列表: 数量 4
+[2023-04-15 17:08:14,629] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:08:14,630] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:08:14,630] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:08:14,630] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:08:14,630] [DEBUG]: 线程列表结束
+[2023-04-15 17:08:14,630] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:08:14,631] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:08:19,642] [DEBUG]: 线程列表: 数量 4
+[2023-04-15 17:08:19,642] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:08:19,642] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:08:19,643] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:08:19,643] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:08:19,643] [DEBUG]: 线程列表结束
+[2023-04-15 17:08:19,643] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:08:19,644] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:08:21,559] [ERROR]: sql错误 SELECT `key` FROM `data` GROUP BY `key` -- (1146, "Table 'iot.data' doesn't exist")
+[2023-04-15 17:08:24,647] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:08:24,647] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:08:24,650] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:08:24,650] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:08:24,651] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:08:24,651] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:08:24,651] [DEBUG]: 线程列表结束
+[2023-04-15 17:08:24,651] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:08:24,651] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:08:29,653] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:08:29,653] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:08:29,653] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:08:29,654] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:08:29,654] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:08:29,654] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:08:29,654] [DEBUG]: 线程列表结束
+[2023-04-15 17:08:29,654] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:08:29,655] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:08:34,670] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:08:34,670] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:08:34,670] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:08:34,671] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:08:34,671] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:08:34,671] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:08:34,672] [DEBUG]: 线程列表结束
+[2023-04-15 17:08:34,672] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:08:34,672] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:08:39,687] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:08:39,687] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:08:39,688] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:08:39,688] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:08:39,688] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:08:39,689] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:08:39,689] [DEBUG]: 线程列表结束
+[2023-04-15 17:08:39,689] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:08:39,690] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:08:44,699] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:08:44,699] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:08:44,700] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:08:44,700] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:08:44,700] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:08:44,701] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:08:44,701] [DEBUG]: 线程列表结束
+[2023-04-15 17:08:44,701] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:08:44,701] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:08:49,705] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:08:49,705] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:08:49,706] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:08:49,706] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:08:49,706] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:08:49,706] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:08:49,707] [DEBUG]: 线程列表结束
+[2023-04-15 17:08:49,707] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:08:49,707] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:08:54,715] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:08:54,715] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:08:54,715] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:08:54,715] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:08:54,716] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:08:54,716] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:08:54,716] [DEBUG]: 线程列表结束
+[2023-04-15 17:08:54,716] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:08:54,716] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:08:59,721] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:08:59,721] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:08:59,721] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:08:59,721] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:08:59,722] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:08:59,722] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:08:59,722] [DEBUG]: 线程列表结束
+[2023-04-15 17:08:59,722] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:08:59,722] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:04,732] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:04,732] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:04,732] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:04,733] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:04,733] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:04,733] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:04,733] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:04,733] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:04,734] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:09,745] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:09,745] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:09,745] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:09,746] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:09,746] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:09,746] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:09,746] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:09,747] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:09,747] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:14,772] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:14,772] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:14,773] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:14,774] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:14,776] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:14,776] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:14,777] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:14,777] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:14,778] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:19,788] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:19,790] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:19,790] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:19,791] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:19,792] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:19,792] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:19,793] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:19,793] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:19,794] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:24,802] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:24,802] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:24,803] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:24,803] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:24,803] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:24,804] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:24,804] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:24,804] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:24,804] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:29,815] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:29,815] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:29,815] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:29,816] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:29,816] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:29,816] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:29,816] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:29,816] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:29,817] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:34,829] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:34,829] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:34,829] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:34,830] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:34,830] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:34,830] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:34,830] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:34,830] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:34,831] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:39,831] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:39,831] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:39,831] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:39,831] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:39,832] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:39,832] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:39,832] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:39,832] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:39,832] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:44,848] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:44,848] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:44,848] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:44,848] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:44,849] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:44,849] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:44,849] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:44,849] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:44,849] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:49,858] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:49,858] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:49,859] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:49,859] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:49,859] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:49,859] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:49,860] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:49,860] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:49,860] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:54,875] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:54,875] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:54,875] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:54,875] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:54,876] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:54,876] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:54,876] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:54,876] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:54,876] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:09:59,884] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:09:59,884] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:09:59,884] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:09:59,884] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:09:59,885] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:09:59,885] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:09:59,885] [DEBUG]: 线程列表结束
+[2023-04-15 17:09:59,885] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:09:59,886] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:10:04,901] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:10:04,901] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:10:04,901] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:10:04,902] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:10:04,902] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:10:04,902] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:10:04,902] [DEBUG]: 线程列表结束
+[2023-04-15 17:10:04,903] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:10:04,903] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:10:09,918] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:10:09,918] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:10:09,918] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:10:09,919] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:10:09,919] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:10:09,919] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:10:09,919] [DEBUG]: 线程列表结束
+[2023-04-15 17:10:09,919] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:10:09,919] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:10:14,923] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:10:14,923] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:10:14,923] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:10:14,924] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:10:14,924] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:10:14,924] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:10:14,924] [DEBUG]: 线程列表结束
+[2023-04-15 17:10:14,924] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:10:14,925] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:10:19,938] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:10:19,938] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:10:19,938] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:10:19,939] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:10:19,939] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:10:19,939] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:10:19,939] [DEBUG]: 线程列表结束
+[2023-04-15 17:10:19,939] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:10:19,940] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:10:24,940] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:10:24,940] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:10:24,940] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:10:24,941] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:10:24,941] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:10:24,941] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:10:24,941] [DEBUG]: 线程列表结束
+[2023-04-15 17:10:24,941] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:10:24,942] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:10:29,950] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:10:29,950] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:10:29,950] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:10:29,950] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:10:29,951] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:10:29,951] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:10:29,951] [DEBUG]: 线程列表结束
+[2023-04-15 17:10:29,951] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:10:29,951] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:10:34,966] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:10:34,966] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:10:34,966] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:10:34,966] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:10:34,967] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:10:34,967] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:10:34,967] [DEBUG]: 线程列表结束
+[2023-04-15 17:10:34,967] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:10:34,967] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:10:39,970] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:10:39,970] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:10:39,972] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:10:39,972] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:10:39,972] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:10:39,973] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:10:39,973] [DEBUG]: 线程列表结束
+[2023-04-15 17:10:39,973] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:10:39,973] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:10:44,985] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:10:44,985] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:10:44,985] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:10:44,985] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:10:44,986] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:10:44,986] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:10:44,986] [DEBUG]: 线程列表结束
+[2023-04-15 17:10:44,986] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:10:44,986] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:10:49,999] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:10:49,999] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:10:49,999] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:10:50,000] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:10:50,000] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:10:50,000] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:10:50,000] [DEBUG]: 线程列表结束
+[2023-04-15 17:10:50,001] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:10:50,001] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:10:55,014] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:10:55,014] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:10:55,014] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:10:55,015] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:10:55,015] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:10:55,015] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:10:55,015] [DEBUG]: 线程列表结束
+[2023-04-15 17:10:55,015] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:10:55,016] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:00,018] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:00,018] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:00,018] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:00,018] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:00,019] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:00,019] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:00,019] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:00,019] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:00,019] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:05,030] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:05,030] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:05,030] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:05,031] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:05,031] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:05,031] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:05,031] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:05,031] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:05,032] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:10,046] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:10,046] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:10,046] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:10,046] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:10,047] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:10,047] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:10,047] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:10,047] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:10,047] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:15,058] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:15,059] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:15,059] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:15,059] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:15,059] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:15,060] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:15,060] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:15,060] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:15,060] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:20,075] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:20,075] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:20,075] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:20,075] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:20,076] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:20,076] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:20,076] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:20,076] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:20,076] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:25,088] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:25,088] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:25,088] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:25,089] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:25,089] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:25,089] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:25,089] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:25,089] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:25,090] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:30,096] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:30,096] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:30,096] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:30,096] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:30,097] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:30,097] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:30,097] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:30,097] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:30,097] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:35,102] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:35,102] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:35,102] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:35,103] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:35,103] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:35,103] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:35,103] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:35,103] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:35,104] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:40,117] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:40,117] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:40,117] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:40,118] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:40,118] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:40,118] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:40,118] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:40,118] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:40,119] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:45,133] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:45,133] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:45,133] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:45,133] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:45,134] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:45,134] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:45,134] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:45,134] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:45,134] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:50,147] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:50,147] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:50,147] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:50,147] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:50,148] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:50,148] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:50,148] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:50,148] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:50,148] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:11:55,163] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:11:55,163] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:11:55,163] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:11:55,163] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:11:55,164] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:11:55,164] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:11:55,164] [DEBUG]: 线程列表结束
+[2023-04-15 17:11:55,164] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:11:55,164] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:00,177] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:00,177] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:00,177] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:00,178] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:00,178] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:00,178] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:00,178] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:00,178] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:00,179] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:05,187] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:05,187] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:05,187] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:05,187] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:05,188] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:05,188] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:05,188] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:05,188] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:05,188] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:10,190] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:10,190] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:10,190] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:10,191] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:10,191] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:10,191] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:10,192] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:10,192] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:10,192] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:15,194] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:15,194] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:15,194] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:15,195] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:15,195] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:15,195] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:15,195] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:15,195] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:15,196] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:20,208] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:20,208] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:20,208] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:20,209] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:20,209] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:20,209] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:20,209] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:20,209] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:20,210] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:25,214] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:25,214] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:25,214] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:25,215] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:25,215] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:25,215] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:25,215] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:25,215] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:25,216] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:30,220] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:30,220] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:30,220] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:30,221] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:30,221] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:30,221] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:30,221] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:30,221] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:30,222] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:35,233] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:35,233] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:35,233] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:35,233] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:35,234] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:35,234] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:35,234] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:35,234] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:35,234] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:40,249] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:40,249] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:40,249] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:40,249] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:40,250] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:40,250] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:40,250] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:40,250] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:40,250] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:45,261] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:45,261] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:45,261] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:45,262] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:45,262] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:45,262] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:45,262] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:45,263] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:45,263] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:50,269] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:50,269] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:50,269] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:50,270] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:50,270] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:50,270] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:50,270] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:50,270] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:50,271] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:12:55,274] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:12:55,274] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:12:55,275] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:12:55,275] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:12:55,275] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:12:55,275] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:12:55,275] [DEBUG]: 线程列表结束
+[2023-04-15 17:12:55,276] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:12:55,276] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:00,286] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:00,286] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:00,286] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:00,286] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:00,286] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:00,286] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:00,286] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:00,287] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:00,287] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:05,295] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:05,295] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:05,296] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:05,296] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:05,296] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:05,297] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:05,297] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:05,297] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:05,298] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:10,311] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:10,311] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:10,312] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:10,313] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:10,314] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:10,315] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:10,316] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:10,317] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:10,317] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:15,329] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:15,330] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:15,332] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:15,332] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:15,332] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:15,332] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:15,332] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:15,333] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:15,333] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:20,342] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:20,342] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:20,343] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:20,343] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:20,345] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:20,345] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:20,345] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:20,346] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:20,348] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:25,352] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:25,352] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:25,352] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:25,352] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:25,353] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:25,353] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:25,353] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:25,353] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:25,353] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:30,356] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:30,356] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:30,356] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:30,357] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:30,357] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:30,357] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:30,357] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:30,357] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:30,358] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:35,369] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:35,372] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:35,372] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:35,373] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:35,375] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:35,375] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:35,375] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:35,375] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:35,377] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:40,384] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:40,384] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:40,385] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:40,386] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:40,388] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:40,390] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:40,390] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:40,391] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:40,392] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:45,405] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:45,406] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:45,407] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:45,407] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:45,409] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:45,410] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:45,410] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:45,410] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:45,411] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:50,425] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:50,425] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:50,425] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:50,425] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:50,426] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:50,426] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:50,426] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:50,426] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:50,426] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:13:55,435] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:13:55,435] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:13:55,435] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:13:55,435] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:13:55,436] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:13:55,436] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:13:55,436] [DEBUG]: 线程列表结束
+[2023-04-15 17:13:55,436] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:13:55,436] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:00,447] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:00,447] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:00,447] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:00,447] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:00,448] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:00,448] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:00,448] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:00,448] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:00,449] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:05,461] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:05,461] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:05,461] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:05,461] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:05,462] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:05,462] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:05,462] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:05,462] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:05,462] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:10,469] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:10,470] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:10,471] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:10,471] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:10,472] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:10,473] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:10,474] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:10,475] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:10,475] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:15,480] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:15,481] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:15,481] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:15,481] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:15,481] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:15,482] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:15,482] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:15,482] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:15,482] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:20,497] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:20,498] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:20,498] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:20,498] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:20,499] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:20,499] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:20,499] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:20,500] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:20,502] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:25,511] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:25,511] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:25,512] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:25,512] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:25,512] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:25,513] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:25,513] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:25,513] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:25,513] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:30,527] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:30,527] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:30,527] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:30,528] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:30,528] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:30,528] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:30,528] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:30,529] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:30,529] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:35,533] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:35,536] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:35,537] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:35,537] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:35,537] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:35,538] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:35,538] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:35,538] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:35,538] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:40,553] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:40,553] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:40,554] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:40,554] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:40,554] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:40,554] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:40,554] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:40,555] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:40,555] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:45,564] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:45,564] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:45,564] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:45,564] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:45,564] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:45,564] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:45,564] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:45,564] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:45,565] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:50,573] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:50,573] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:50,573] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:50,573] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:50,574] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:50,574] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:50,574] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:50,574] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:50,574] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:14:55,584] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:14:55,585] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:14:55,585] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:14:55,586] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:14:55,587] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:14:55,587] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:14:55,587] [DEBUG]: 线程列表结束
+[2023-04-15 17:14:55,588] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:14:55,588] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:00,599] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:00,599] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:00,599] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:00,599] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:00,599] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:00,599] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:00,600] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:00,600] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:00,600] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:05,615] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:05,615] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:05,615] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:05,616] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:05,616] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:05,616] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:05,616] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:05,617] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:05,617] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:10,622] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:10,622] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:10,622] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:10,623] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:10,623] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:10,623] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:10,623] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:10,623] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:10,624] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:15,630] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:15,630] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:15,631] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:15,631] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:15,631] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:15,631] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:15,632] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:15,632] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:15,632] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:20,635] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:20,635] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:20,635] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:20,635] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:20,636] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:20,636] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:20,636] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:20,636] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:20,636] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:25,644] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:25,644] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:25,644] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:25,644] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:25,645] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:25,645] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:25,645] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:25,645] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:25,645] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:30,660] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:30,661] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:30,661] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:30,662] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:30,663] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:30,663] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:30,664] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:30,664] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:30,664] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:35,675] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:35,675] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:35,675] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:35,675] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:35,676] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:35,676] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:35,676] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:35,676] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:35,676] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:40,683] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:40,684] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:40,684] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:40,685] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:40,686] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:40,686] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:40,686] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:40,686] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:40,687] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:45,691] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:45,692] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:45,692] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:45,692] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:45,693] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:45,693] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:45,693] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:45,693] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:45,694] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:50,699] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:50,699] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:50,699] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:50,700] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:50,700] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:50,701] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:50,703] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:50,704] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:50,705] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:15:55,712] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:15:55,712] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:15:55,712] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:15:55,713] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:15:55,713] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:15:55,713] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:15:55,713] [DEBUG]: 线程列表结束
+[2023-04-15 17:15:55,713] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:15:55,714] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:00,724] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:00,725] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:00,725] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:00,725] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:00,727] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:00,730] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:00,730] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:00,731] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:00,732] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:05,740] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:05,741] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:05,741] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:05,742] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:05,742] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:05,743] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:05,743] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:05,744] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:05,745] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:10,754] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:10,755] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:10,755] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:10,755] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:10,755] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:10,756] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:10,756] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:10,756] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:10,757] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:15,766] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:15,768] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:15,769] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:15,769] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:15,770] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:15,771] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:15,771] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:15,772] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:15,772] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:20,785] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:20,788] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:20,789] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:20,790] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:20,792] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:20,792] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:20,793] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:20,793] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:20,794] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:25,798] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:25,798] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:25,798] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:25,799] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:25,799] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:25,799] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:25,799] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:25,800] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:25,800] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:30,808] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:30,808] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:30,808] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:30,809] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:30,809] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:30,809] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:30,809] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:30,809] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:30,810] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:35,814] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:35,815] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:35,816] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:35,818] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:35,819] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:35,819] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:35,819] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:35,820] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:35,820] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:40,828] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:40,828] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:40,829] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:40,829] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:40,830] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:40,830] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:40,830] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:40,830] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:40,831] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:45,846] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:45,846] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:45,847] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:45,847] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:45,847] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:45,847] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:45,848] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:45,848] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:45,848] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:50,858] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:50,859] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:50,859] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:50,859] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:50,860] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:50,860] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:50,861] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:50,861] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:50,861] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:16:55,874] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:16:55,876] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:16:55,877] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:16:55,877] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:16:55,878] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:16:55,878] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:16:55,878] [DEBUG]: 线程列表结束
+[2023-04-15 17:16:55,879] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:16:55,879] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:00,887] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:00,888] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:00,888] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:00,889] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:00,890] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:00,890] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:00,890] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:00,891] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:00,891] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:05,915] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:05,916] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:05,917] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:05,917] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:05,917] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:05,918] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:05,919] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:05,920] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:05,920] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:10,927] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:10,929] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:10,930] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:10,930] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:10,931] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:10,931] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:10,931] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:10,931] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:10,932] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:15,939] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:15,942] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:15,942] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:15,943] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:15,945] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:15,946] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:15,947] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:15,948] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:15,948] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:20,954] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:20,954] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:20,955] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:20,955] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:20,955] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:20,956] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:20,956] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:20,956] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:20,957] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:25,970] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:25,971] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:25,972] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:25,972] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:25,973] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:25,974] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:25,975] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:25,975] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:25,975] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:30,989] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:30,993] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:30,994] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:30,995] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:30,995] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:30,995] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:30,996] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:30,996] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:30,997] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:36,010] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:36,011] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:36,012] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:36,012] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:36,013] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:36,014] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:36,015] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:36,015] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:36,016] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:41,029] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:41,029] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:41,030] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:41,030] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:41,030] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:41,030] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:41,031] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:41,031] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:41,031] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:46,039] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:46,039] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:46,040] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:46,041] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:46,041] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:46,042] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:46,043] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:46,043] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:46,045] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:51,049] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:51,051] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:51,051] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:51,055] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:51,065] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:51,068] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:51,070] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:51,070] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:51,072] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:17:56,093] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:17:56,094] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:17:56,096] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:17:56,097] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:17:56,098] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:17:56,098] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:17:56,098] [DEBUG]: 线程列表结束
+[2023-04-15 17:17:56,099] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:17:56,100] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:01,105] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:01,105] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:01,106] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:01,106] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:01,107] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:01,107] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:01,110] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:01,111] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:01,112] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:06,118] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:06,118] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:06,119] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:06,119] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:06,120] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:06,120] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:06,121] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:06,122] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:06,123] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:11,132] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:11,132] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:11,133] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:11,133] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:11,134] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:11,135] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:11,136] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:11,137] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:11,137] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:16,146] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:16,149] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:16,153] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:16,155] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:16,156] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:16,156] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:16,157] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:16,158] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:16,158] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:21,170] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:21,173] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:21,174] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:21,174] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:21,175] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:21,177] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:21,177] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:21,178] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:21,183] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:26,187] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:26,188] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:26,188] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:26,188] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:26,189] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:26,196] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:26,197] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:26,198] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:26,198] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:31,204] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:31,204] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:31,205] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:31,205] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:31,205] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:31,205] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:31,206] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:31,206] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:31,206] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:36,222] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:36,222] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:36,223] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:36,224] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:36,224] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:36,224] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:36,224] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:36,224] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:36,225] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:41,236] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:41,236] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:41,237] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:41,237] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:41,239] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:41,240] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:41,240] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:41,241] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:41,241] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:46,247] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:46,248] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:46,248] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:46,249] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:46,250] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:46,250] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:46,250] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:46,251] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:46,251] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:51,268] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:51,269] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:51,270] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:51,271] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:51,271] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:51,272] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:51,278] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:51,280] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:51,286] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:18:56,299] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:18:56,300] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:18:56,300] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:18:56,300] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:18:56,300] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:18:56,301] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:18:56,301] [DEBUG]: 线程列表结束
+[2023-04-15 17:18:56,301] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:18:56,301] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:01,316] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:01,316] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:01,317] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:01,318] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:01,318] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:01,318] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:01,320] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:01,321] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:01,321] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:06,329] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:06,330] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:06,331] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:06,332] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:06,333] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:06,333] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:06,334] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:06,335] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:06,335] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:11,342] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:11,344] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:11,344] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:11,345] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:11,346] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:11,347] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:11,347] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:11,347] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:11,347] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:16,354] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:16,354] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:16,355] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:16,355] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:16,356] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:16,356] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:16,356] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:16,357] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:16,357] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:21,358] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:21,359] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:21,359] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:21,360] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:21,361] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:21,362] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:21,363] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:21,370] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:21,371] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:26,375] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:26,375] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:26,376] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:26,377] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:26,378] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:26,379] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:26,380] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:26,381] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:26,382] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:31,388] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:31,390] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:31,391] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:31,391] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:31,391] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:31,392] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:31,392] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:31,392] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:31,393] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:36,403] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:36,403] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:36,403] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:36,403] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:36,404] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:36,404] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:36,405] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:36,405] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:36,405] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:41,415] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:41,417] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:41,419] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:41,420] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:41,421] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:41,421] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:41,421] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:41,422] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:41,423] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:46,431] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:46,432] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:46,432] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:46,432] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:46,432] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:46,433] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:46,433] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:46,433] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:46,433] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:51,441] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:51,442] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:51,444] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:51,453] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:51,454] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:51,454] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:51,455] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:51,456] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:51,458] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:19:56,470] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:19:56,470] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:19:56,471] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:19:56,472] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:19:56,472] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:19:56,472] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:19:56,474] [DEBUG]: 线程列表结束
+[2023-04-15 17:19:56,475] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:19:56,476] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:01,482] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:01,489] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:01,490] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:01,490] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:01,493] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:01,494] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:01,496] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:01,498] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:01,498] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:06,510] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:06,511] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:06,511] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:06,512] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:06,517] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:06,517] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:06,518] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:06,518] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:06,518] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:11,523] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:11,529] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:11,531] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:11,531] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:11,531] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:11,532] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:11,532] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:11,533] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:11,533] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:16,535] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:16,535] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:16,536] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:16,536] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:16,536] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:16,537] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:16,537] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:16,537] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:16,537] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:21,550] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:21,551] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:21,551] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:21,552] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:21,553] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:21,553] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:21,553] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:21,554] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:21,556] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:26,559] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:26,561] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:26,562] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:26,562] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:26,563] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:26,563] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:26,563] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:26,563] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:26,564] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:31,574] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:31,575] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:31,575] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:31,576] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:31,576] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:31,577] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:31,577] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:31,577] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:31,578] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:36,589] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:36,590] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:36,592] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:36,593] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:36,595] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:36,596] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:36,597] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:36,598] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:36,598] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:41,603] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:41,605] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:41,607] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:41,609] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:41,611] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:41,613] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:41,613] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:41,614] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:41,615] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:46,618] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:46,618] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:46,619] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:46,621] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:46,630] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:46,631] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:46,631] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:46,632] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:46,632] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:51,647] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:51,648] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:51,649] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:51,649] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:51,650] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:51,650] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:51,650] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:51,650] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:51,651] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:20:56,660] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:20:56,661] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:20:56,662] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:20:56,664] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:20:56,665] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:20:56,666] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:20:56,666] [DEBUG]: 线程列表结束
+[2023-04-15 17:20:56,667] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:20:56,667] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:01,675] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:01,677] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:01,677] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:01,678] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:01,678] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:01,679] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:01,679] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:01,681] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:01,681] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:06,689] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:06,691] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:06,693] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:06,695] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:06,695] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:06,696] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:06,697] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:06,698] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:06,699] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:11,706] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:11,706] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:11,707] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:11,709] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:11,710] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:11,722] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:11,723] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:11,724] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:11,725] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:16,741] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:16,741] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:16,742] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:16,743] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:16,743] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:16,743] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:16,745] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:16,748] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:16,749] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:21,751] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:21,753] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:21,759] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:21,760] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:21,761] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:21,762] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:21,763] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:21,764] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:21,765] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:26,781] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:26,782] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:26,782] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:26,783] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:26,783] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:26,784] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:26,784] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:26,785] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:26,787] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:31,794] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:31,795] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:31,795] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:31,795] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:31,796] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:31,796] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:31,796] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:31,797] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:31,797] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:36,804] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:36,805] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:36,807] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:36,809] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:36,812] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:36,813] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:36,814] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:36,814] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:36,815] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:41,820] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:41,822] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:41,823] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:41,824] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:41,826] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:41,827] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:41,828] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:41,829] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:41,830] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:46,834] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:46,834] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:46,835] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:46,835] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:46,835] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:46,836] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:46,836] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:46,836] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:46,837] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:51,859] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:51,860] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:51,861] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:51,863] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:51,869] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:51,870] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:51,871] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:51,872] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:51,872] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:21:56,883] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:21:56,885] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:21:56,892] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:21:56,893] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:21:56,893] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:21:56,894] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:21:56,894] [DEBUG]: 线程列表结束
+[2023-04-15 17:21:56,894] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:21:56,897] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:22:01,902] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:22:01,905] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:22:01,906] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:22:01,907] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:22:01,907] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:22:01,908] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:22:01,909] [DEBUG]: 线程列表结束
+[2023-04-15 17:22:01,913] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:22:01,915] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:22:06,940] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:22:06,942] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:22:06,942] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:22:06,943] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:22:06,943] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:22:06,944] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:22:06,944] [DEBUG]: 线程列表结束
+[2023-04-15 17:22:06,945] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:22:06,948] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:22:11,963] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:22:11,963] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:22:11,963] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:22:11,964] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:22:11,964] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:22:11,965] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:22:11,965] [DEBUG]: 线程列表结束
+[2023-04-15 17:22:11,971] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:22:11,972] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:22:16,977] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:22:16,980] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:22:16,981] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:22:16,982] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:22:16,982] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:22:16,983] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:22:16,983] [DEBUG]: 线程列表结束
+[2023-04-15 17:22:16,983] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:22:16,983] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:22:22,000] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:22:22,001] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:22:22,002] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:22:22,003] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:22:22,003] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:22:22,004] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:22:22,004] [DEBUG]: 线程列表结束
+[2023-04-15 17:22:22,007] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:22:22,018] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:22:27,030] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:22:27,032] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:22:27,034] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:22:27,036] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:22:27,037] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:22:27,038] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:22:27,040] [DEBUG]: 线程列表结束
+[2023-04-15 17:22:27,042] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:22:27,042] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:22:32,052] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:22:32,052] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:22:32,053] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:22:32,053] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:22:32,053] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:22:32,054] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:22:32,054] [DEBUG]: 线程列表结束
+[2023-04-15 17:22:32,054] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:22:32,056] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:22:37,058] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:22:37,058] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:22:37,058] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:22:37,058] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:22:37,059] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:22:37,059] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:22:37,059] [DEBUG]: 线程列表结束
+[2023-04-15 17:22:37,059] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:22:37,059] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:22:42,063] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:22:42,064] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:22:42,065] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:22:42,067] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:22:42,068] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:22:42,069] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:22:42,069] [DEBUG]: 线程列表结束
+[2023-04-15 17:22:42,070] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:22:42,070] [INFO]: 连接检查完成: 存活连接数量 0
+[2023-04-15 17:22:47,082] [DEBUG]: 线程列表: 数量 5
+[2023-04-15 17:22:47,082] [DEBUG]: 线程1 <_MainThread(MainThread, started 15684)>
+[2023-04-15 17:22:47,082] [DEBUG]: 线程2 <Thread(APScheduler, started daemon 668)>
+[2023-04-15 17:22:47,083] [DEBUG]: 线程3 <Thread(IotServer_Main, started daemon 8356)>
+[2023-04-15 17:22:47,083] [DEBUG]: 线程4 <Thread(IotServer_Listen, started daemon 12392)>
+[2023-04-15 17:22:47,083] [DEBUG]: 线程5 <WorkerThread(AnyIO worker thread, started 12912)>
+[2023-04-15 17:22:47,084] [DEBUG]: 线程列表结束
+[2023-04-15 17:22:47,084] [INFO]: 连接检查: 数量 0
+[2023-04-15 17:22:47,084] [INFO]: 连接检查完成: 存活连接数量 0

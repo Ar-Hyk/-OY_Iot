@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>007</title>
+    <link href="/static/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/5.1.1/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/5.1.1/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.staticfile.org/Chart.js/3.9.1/chart.js"></script>
+</head>
+
+<body>
+<h2>风扇挡位：
+    <div aria-label="Basic radio toggle button group" class="btn-group" role="group">
+        <input autocomplete="off" checked class="btn-check" id="btnradio1" name="btnradio" type="radio">
+        <label class="btn btn-outline-primary" for="btnradio1">0档</label>
+
+        <input autocomplete="off" class="btn-check" id="btnradio2" name="btnradio" type="radio">
+        <label class="btn btn-outline-primary" for="btnradio2">1档</label>
+
+        <input autocomplete="off" class="btn-check" id="btnradio3" name="btnradio" type="radio">
+        <label class="btn btn-outline-primary" for="btnradio3">2档</label>
+    </div>
+</h2>
+
+<table border="0" width="200">
+    <tbody>
+    <tr>
+        <td>&nbsp;
+            <canvas height="300" id="Humidity" width="600"></canvas>
+        </td>
+        <td>&nbsp;
+            <canvas height="300" id="Temperature" width="600"></canvas>
+        </td>
+    </tr>
+    <tr>
+        <td>&nbsp;
+            <canvas height="300" id="CH2O" width="600"></canvas>
+        </td>
+        <td>&nbsp;
+            <canvas height="300" id="Dust" width="600"></canvas>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<script src="/static/js/temperature.js"></script>
+<script src="/static/js/Humidity.js"></script>
+<script src="/static/js/CH2O.js"></script>
+<script src="/static/js/Dust.js"></script>
+</body>
+
+</html>
